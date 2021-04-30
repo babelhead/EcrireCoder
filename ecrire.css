@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+* {text-align:justify; }
+#ecrire { float:left;
+    width:45%;
+    padding: 20px;
+}
+
+#coder { float:right;
+    max-width: 45%;
+    padding:20px;
+}
+
+h1 {text-align:center;}
+a {text-decoration: none; color:inherit;}
+a:hover {text-decoration: none; color:initial; font-size: 2rem;}
+a:visited {text-decoration: none; color:initial; font-size: 2rem;}
+/* the anchor text still goes back to normal font size after visiting it, why? */
