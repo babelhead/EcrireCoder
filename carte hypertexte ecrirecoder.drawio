@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T08:09:42.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="j6qdkAS5vnBcVY7baX08" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T14:13:12.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Ol8bGCvhbE7Be_RjjgBc" version="14.7.0" type="github">
   <diagram id="6doVrPJ-ObZSOuQhxs8i" name="Page-1">
     <mxGraphModel dx="1994" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
         <mxCell id="dXt1x4Jq84xT1-GMIPiX-12" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 16px&quot;&gt;NB les lignes rouges sont les liens encore à créer (et textes à écrire)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-440" y="450" width="500" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bR3jq1Y_VQ9phpBjEj6X-2" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="rIAOia4sCqqXoOOWir5a-4" target="tSA0cVDieB6mVvmB_cu0-14">
+        <mxCell id="bR3jq1Y_VQ9phpBjEj6X-2" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="rIAOia4sCqqXoOOWir5a-4" target="tSA0cVDieB6mVvmB_cu0-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="310" as="sourcePoint" />
             <mxPoint x="530" y="260" as="targetPoint" />
