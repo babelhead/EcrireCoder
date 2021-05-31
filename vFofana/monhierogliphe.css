@@ -1,0 +1,80 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+/*div{
+height: 50px
+margin : 0 auto 20px auto;
+border: 2px solid black;
+box-sizing: border-box;
+}
+
+.d1{
+    animation: couleur 5s linear 2s infinite alternate;
+}
+.d2{
+    animation: taille 5s linear 2s 5 alternate both;
+}
+  }
+  @keyframes couleur{
+    from{background-color: orange;}
+    50%{background-color: purple;}
+    to{background-color: blue;}
+}
+@keyframes taille{
+    from{width: 100%;}
+    50%{width: 50%;}
+    to{width: 100%;}
+}
+*/
+.titre .hieroglyphe {
+  text-align: center;
+    width: 25%;
+    height: inherit;
+    margin: 10px auto;
+    position: relative;
+    background-color: white;
+    animation-name: couleur;
+    animation-duration: 10s;
+}
+@keyframes couleur{
+    from{
+        background-color: white;
+    }
+    25%{
+        background-color: orange;
+        width: 75%
+    }
+    50%{
+        background-color: purple;
+        width: 50%
+    }
+    75%{
+        background-color: red;
+        width: 75%;
+    }
+    to{
+        background-color: white;
+    }
+}
+.contenu{
+  display: flex;
+  flex-wrap: wrap;
+}
+.partie-gauche{
+  width: 20%;
+  background-color: rgb(236, 236, 236);
+
+}
+.hieroglyphe span {
+  position: relative;
+  top: 10px;
+}
+.texte monP {
+  margin-top: 10px;
+  text-align: center;
+
+
+}
