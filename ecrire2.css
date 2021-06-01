@@ -2,6 +2,7 @@
 /* CSS Document */
 * {text-align:justify; }
 #ecrire { 
+    font-size:large;
     padding: 30px;
     margin:auto;
 }
