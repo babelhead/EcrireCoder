@@ -2,8 +2,9 @@
 /* CSS Document */
 * {text-align:justify; }
 #ecrire { 
+    font-family:'Courier New', Courier, monospace;
     font-size:large;
-    padding: 30px;
+    padding: 40px;
     margin:auto;
 }
 
