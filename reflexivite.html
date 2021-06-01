@@ -10,7 +10,7 @@
             overflow: hidden;
             position: relative;
             margin:none;
-            z-index: -2;
+            z-index: 1;
          }
         .background {
             position: absolute;
@@ -18,8 +18,8 @@
             top: 0;
             width: 100%;
             height: auto;
-            z-index: -1;
             margin:none;
+            z-index: 2;
         } 
         .content {
          position: relative;
@@ -27,11 +27,11 @@
          margin-left: 100px;
          margin-right: 100px;
          margin-top: 20px;
-         z-index: 1;
          text-align: justify;
         font-family: monospace;
         font-weight: bold;
         color: white;
+        z-index: 3;
         }
         a {text-decoration: none; color:white;}
         a:hover {text-decoration: none; color:initial; font-size: 2rem;}
