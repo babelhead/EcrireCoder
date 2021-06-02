@@ -80,3 +80,6 @@ text-align: justify;}
   position: absolute;
   right: 325px;
 }
+a {text-decoration: none; color:inherit;}
+a:hover {text-decoration: none; color:initial; font-size: 2rem;}
+a:visited {text-decoration: none; color:initial; font-size: 2rem;}
