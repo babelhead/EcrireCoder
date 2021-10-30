@@ -44,10 +44,12 @@ font-family: sans-serif;
   width: 20%;
   background-color: rgb(236, 236, 236);
   height: 500px;
+  text-align: center;
   margin: 5px;
 
 }
 .partie-droite{
+  background-color:Gold;
   width: 60%;
   padding: 50px;
 text-align: justify;}
@@ -55,4 +57,20 @@ text-align: justify;}
 .monP span {
   position: absolute;
   right: 185px;
+}
+a:hover
+{
+color: #F00;
+}
+a
+{
+  text-decoration: none;color: inherit;
+transition: color 1s;
+}
+a:hover
+{
+color: #F00;
+}
+img {
+  position :relative;
 }
